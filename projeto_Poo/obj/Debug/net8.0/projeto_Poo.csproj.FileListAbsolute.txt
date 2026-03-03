@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\projeto_Poo\obj\Debug\net8.0\projeto_Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\projeto_Poo\obj\Debug\net8.0\projeto_Poo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\projeto_Poo\obj\Debug\net8.0\projeto_Poo.AssemblyInfo.cs
+C:\Users\User\source\repos\projeto_Poo\obj\Debug\net8.0\projeto_Poo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\projeto_Poo\bin\Debug\net8.0\projeto_Poo.exe
+C:\Users\User\source\repos\projeto_Poo\bin\Debug\net8.0\projeto_Poo.deps.json
+C:\Users\User\source\repos\projeto_Poo\bin\Debug\net8.0\projeto_Poo.runtimeconfig.json
+C:\Users\User\source\repos\projeto_Poo\bin\Debug\net8.0\projeto_Poo.dll
+C:\Users\User\source\repos\projeto_Poo\bin\Debug\net8.0\projeto_Poo.pdb
+C:\Users\User\source\repos\projeto_Poo\obj\Debug\net8.0\projeto_Poo.dll
+C:\Users\User\source\repos\projeto_Poo\obj\Debug\net8.0\refint\projeto_Poo.dll
+C:\Users\User\source\repos\projeto_Poo\obj\Debug\net8.0\projeto_Poo.pdb
+C:\Users\User\source\repos\projeto_Poo\obj\Debug\net8.0\projeto_Poo.genruntimeconfig.cache
+C:\Users\User\source\repos\projeto_Poo\obj\Debug\net8.0\ref\projeto_Poo.dll
